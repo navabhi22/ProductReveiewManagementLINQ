@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\ProductReviewManagementLINQ\ProductReviewManagementLINQ\bin\Debug\net6.0\ProductReviewManagementLINQ.exe
+C:\Users\Acer\source\repos\ProductReviewManagementLINQ\ProductReviewManagementLINQ\bin\Debug\net6.0\ProductReviewManagementLINQ.deps.json
+C:\Users\Acer\source\repos\ProductReviewManagementLINQ\ProductReviewManagementLINQ\bin\Debug\net6.0\ProductReviewManagementLINQ.runtimeconfig.json
+C:\Users\Acer\source\repos\ProductReviewManagementLINQ\ProductReviewManagementLINQ\bin\Debug\net6.0\ProductReviewManagementLINQ.dll
+C:\Users\Acer\source\repos\ProductReviewManagementLINQ\ProductReviewManagementLINQ\bin\Debug\net6.0\ref\ProductReviewManagementLINQ.dll
+C:\Users\Acer\source\repos\ProductReviewManagementLINQ\ProductReviewManagementLINQ\bin\Debug\net6.0\ProductReviewManagementLINQ.pdb
+C:\Users\Acer\source\repos\ProductReviewManagementLINQ\ProductReviewManagementLINQ\obj\Debug\net6.0\ProductReviewManagementLINQ.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\ProductReviewManagementLINQ\ProductReviewManagementLINQ\obj\Debug\net6.0\ProductReviewManagementLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\ProductReviewManagementLINQ\ProductReviewManagementLINQ\obj\Debug\net6.0\ProductReviewManagementLINQ.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ProductReviewManagementLINQ\ProductReviewManagementLINQ\obj\Debug\net6.0\ProductReviewManagementLINQ.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ProductReviewManagementLINQ\ProductReviewManagementLINQ\obj\Debug\net6.0\ProductReviewManagementLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ProductReviewManagementLINQ\ProductReviewManagementLINQ\obj\Debug\net6.0\ProductReviewManagementLINQ.dll
+C:\Users\Acer\source\repos\ProductReviewManagementLINQ\ProductReviewManagementLINQ\obj\Debug\net6.0\ref\ProductReviewManagementLINQ.dll
+C:\Users\Acer\source\repos\ProductReviewManagementLINQ\ProductReviewManagementLINQ\obj\Debug\net6.0\ProductReviewManagementLINQ.pdb
+C:\Users\Acer\source\repos\ProductReviewManagementLINQ\ProductReviewManagementLINQ\obj\Debug\net6.0\ProductReviewManagementLINQ.genruntimeconfig.cache
