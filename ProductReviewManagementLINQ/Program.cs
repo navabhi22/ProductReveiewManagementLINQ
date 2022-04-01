@@ -45,7 +45,7 @@ namespace ProductReviewManagementLINQ
             }
 
             ProductManagement productManagement = new ProductManagement();
-            productManagement.ReviewWithRatingGreaterThan3andProductId1or4o9(productReviewList);
+            productManagement.CountReviewForEachProduct(productReviewList);
         }
     }
 }
