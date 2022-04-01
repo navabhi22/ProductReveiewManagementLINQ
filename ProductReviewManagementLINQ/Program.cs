@@ -43,6 +43,9 @@ namespace ProductReviewManagementLINQ
             {
                 Console.WriteLine("Product id = " + list.ProductId + "User id = " + list.UserId + "Rating is = " + list.Rating + " Review is = " + list.Review + " isLike = " + list.isLike);
             }
+
+            ProductManagement productManagement = new ProductManagement();
+            productManagement.ReviewWithRatingGreaterThan3andProductId1or4o9(productReviewList);
         }
     }
 }
